@@ -8,6 +8,7 @@ import kr.or.ddit.mvc.service.MemberServiceImpl;
 import kr.or.ddit.vo.MemberVO;
 
 public class MemberController {
+	string test="";
 	private IMemberService service;
 	private Scanner scan;
 
